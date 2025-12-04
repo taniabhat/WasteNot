@@ -101,7 +101,7 @@ Grocery Planner
 
 Clone the repo:
 
-git clone https://github.com/yourusername/WasteNot.git
+git clone https://github.com/taniabhat/WasteNot.git
 cd WasteNot
 
 
